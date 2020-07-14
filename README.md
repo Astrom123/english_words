@@ -3,3 +3,7 @@
 Инструкция по запуску:
 
     docker-compose -f docker-compose.prod.yml up
+
+superuser:
+
+    admin:admin
